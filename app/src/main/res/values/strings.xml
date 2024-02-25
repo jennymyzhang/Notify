@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">notify</string>
+    <string name="app_logo">logo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="notify">NOTIFY</string>
+    <string name="find_note">Find your notes</string>
+    <string name="login">Log In</string>
+    <string name="email">Email\n</string>
+    <string name="password">Password\n</string>
+    <string name="noAccount">Don\'t have account?</string>
+    <string name="createNew">Create New</string>
+    <string name="signUp">Sign Up</string>
+    <string name="firstname">First Name\n</string>
+    <string name="lastName">Last Name\n</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="settings">Settings</string>
+    <string name="id">123123</string>
+</resources>
