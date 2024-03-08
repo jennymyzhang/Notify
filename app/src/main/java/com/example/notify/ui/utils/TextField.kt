@@ -1,4 +1,4 @@
-package com.example.notify.ui.loginScreen
+package com.example.notify.ui.utils
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape
