@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022885686327",
+    "project_id": "notify-9004e",
+    "storage_bucket": "notify-9004e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022885686327:android:ba44b78c6abc870cec23b2",
+        "android_client_info": {
+          "package_name": "com.example.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5-TcBVFvZEXDXiGgKWcebHRfwmwvejA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
